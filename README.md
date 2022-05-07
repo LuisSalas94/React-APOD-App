@@ -2,6 +2,7 @@
 
 # Astromy picture of the Day - APOD 
  This is a Rect App done step-by-step. Using useState, useEffect & Fetch API This app is part of #100DaysOfCode challenge. 
+ [Discover the cosmos](https://apod.nasa.gov/apod/archivepix.html).Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
    
 ## Built With
 
